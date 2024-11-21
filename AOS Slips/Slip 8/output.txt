@@ -1,0 +1,2 @@
+This is an example of standard output redirection using the 'dup' and 'open' system calls.
+The ouput is redirected to the 'output.txt file'.
